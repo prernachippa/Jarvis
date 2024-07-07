@@ -1,0 +1,1 @@
+Automated voice chat using Python. Can be activated when you call its name out "Jarvis", you command it to take you to Google, Facebook, Youtube, LinkedIn. Can also play the songs listed in the code and uses OpenAI for any other questions you want to ask.
